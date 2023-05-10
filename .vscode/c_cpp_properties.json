@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Qt_Mingw32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:/Qt/5.15.2/mingw81_32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "E:\\Qt\\Tools\\mingw810_32\\bin\\g++.exe",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
